@@ -5,7 +5,6 @@
 * 🔒: Có lời giải chi tiết
 
 ## Algorithms
-- [Solution](#solution)
 - [Bit Manipulation](#bit-manipulation)
 - [Array](#array)
 - [String](#string)
