@@ -112,8 +112,6 @@
 ## Greedy
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
-| # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
-|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
 ## Graph
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
