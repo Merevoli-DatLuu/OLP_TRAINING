@@ -42,6 +42,7 @@
 |1| [Single Number](https://leetcode.com/problems/single-number/) | [C++](./Solutions/1.cpp) | _O(n)_ | _O(1)_ | Easy | [🔒](./Explanations/1.md) | LeetCode | |
 |2| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./Solutions/2.cpp) | _O(n)_ | _O(1)_ | Medium | [🔒](./Explanations/2.md) | LeetCode | |
 |3| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./Solutions/3.cpp) | _O(n)_ | _O(1)_ | Medium | [🔒](./Explanations/3.md) | LeetCode | |
+|4| [Range Xor](./Problems/4.md) | [C++](./Solutions/4.cpp) | _O(1)_ | _O(1)_ | Easy | [🔒](./Explanations/4.md) | | |
 
 ## Array
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
