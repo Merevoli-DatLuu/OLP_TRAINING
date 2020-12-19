@@ -6,36 +6,42 @@
 
 ## Algorithms
 
-* [Bit Manipulation](#bit-manipulation)
-* [Array](#array)
-* [String](#string)
-* [Linked List](#linked-list)
-* [Stack](#stack)
-* [Queue](#queue)
-* [Heap](#heap)
-* [Tree](#tree)
-* [Hash Table](#hash-table)
-* [Math](#math)
-* [Two Pointers](#two-pointers)
-* [Sort](#sort)
-* [Recursion](#recursion)
-* [Binary Search](#binary-search)
-* [Binary Search Tree](#binary-search-tree)
-* [Breadth-First Search](#breadth-first-search)
-* [Depth-First Search](#depth-first-search)
-* [Backtracking](#backtracking)
-* [Dynamic Programming](#dynamic-programming)
-* [Greedy](#greedy)
-* [Graph](#graph)
-* [Geometry](#geometry)
-* [Simulation](#simulation)
-* [Design](#design)
+- [OLP_TRAINING](#olp_training)
+  - [Algorithms](#algorithms)
+  - [Solution](#solution)
+    - [Bit Manipulation](#bit-manipulation)
+  - [Array](#array)
+  - [String](#string)
+  - [Linked List](#linked-list)
+  - [Stack](#stack)
+  - [Queue](#queue)
+  - [Heap](#heap)
+  - [Tree](#tree)
+  - [Hash Table](#hash-table)
+  - [Math](#math)
+  - [Two Pointers](#two-pointers)
+  - [Sort](#sort)
+  - [Recursion](#recursion)
+  - [Binary Search](#binary-search)
+  - [Binary Search Tree](#binary-search-tree)
+  - [Breadth-First Search](#breadth-first-search)
+  - [Depth-First Search](#depth-first-search)
+  - [Backtracking](#backtracking)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Greedy](#greedy)
+  - [Graph](#graph)
+  - [Geometry](#geometry)
+  - [Simulation](#simulation)
+  - [Design](#design)
 
 ## Solution
 
 ### Bit Manipulation
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
+|1| [Single Number](https://leetcode.com/problems/single-number/) | [C++](./Solutions/1.cpp) | _O(n)_ | _O(1)_ | Easy | [🔒](./Explanations/1.md) | LeetCode | |
+|2| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./Solutions/2.cpp) | _O(n)_ | _O(1)_ | Medium | [🔒](./Explanations/2.md) | LeetCode | |
+|3| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./Solutions/3.cpp) | _O(n)_ | _O(1)_ | Medium | [🔒](./Explanations/3.md) | LeetCode | |
 
 ## Array
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
