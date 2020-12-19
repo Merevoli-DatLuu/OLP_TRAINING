@@ -40,94 +40,94 @@
 |3| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./Solutions/3.cpp) | _O(n)_ | _O(1)_ | Medium | [🔒](./Explanations/3.md) | LeetCode | |
 |4| [Range Xor](./Problems/4.md) | [C++](./Solutions/4.cpp) | _O(1)_ | _O(1)_ | Easy | [🔒](./Explanations/4.md) | | |
 
-## Array
+### Array
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## String
+### String
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Linked List
+### Linked List
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Stack
+### Stack
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Queue
+### Queue
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Heap
+### Heap
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Tree
+### Tree
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Hash Table
+### Hash Table
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Math
+### Math
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Two Pointers
+### Two Pointers
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Sort
+### Sort
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Recursion
+### Recursion
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Binary Search
+### Binary Search
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Binary Search Tree
+### Binary Search Tree
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Breadth-First Search
+### Breadth-First Search
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Depth-First Search
+### Depth-First Search
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Backtracking
+### Backtracking
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Dynamic Programming
+### Dynamic Programming
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Greedy
+### Greedy
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Graph
+### Graph
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Geometry
+### Geometry
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Simulation
+### Simulation
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
 
-## Design
+### Design
 | # | Title | Solution | Time | Space | Difficulty | Tag |  OJ | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- | ---- |
